@@ -2,7 +2,6 @@
 
 [![Made with Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)]()
 [![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
 [![Kaggle](https://img.shields.io/badge/Kaggle-Projects-20beff?logo=kaggle)]()
 
 This project focuses on detecting fraudulent credit card transactions using machine learning techniques on a highly imbalanced dataset. The aim is to maximize detection (recall) of fraudulent transactions while minimizing false alarms.
