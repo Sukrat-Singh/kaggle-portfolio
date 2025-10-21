@@ -32,9 +32,9 @@ Each project typically includes:
 
 ## ✅ Completed Projects
 
-| Project | Description | Key Techniques |
-|--------|-------------|----------------|
-| [Credit Card Fraud Detection](./credit-card-fraud-detection) | Detecting rare fraudulent transactions from highly imbalanced tabular data | SMOTE, StratifiedKFold, Threshold tuning, RandomForest |
+| Project                                                    | Description                                                                | Key Techniques                                         |
+| ---------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [Credit Card Fraud Detection](credit-card-fraud-detection) | Detecting rare fraudulent transactions from highly imbalanced tabular data | SMOTE, StratifiedKFold, Threshold tuning, RandomForest |
 
 ---
 
@@ -49,19 +49,19 @@ Each project typically includes:
 
 ## 🛠 Tech Stack
 
-| Category | Tools |
-|----------|--------|
-| Language | Python |
-| Notebook | Jupyter / Kaggle |
-| ML | scikit-learn, imbalanced-learn, PyTorch |
-| Visualization | matplotlib, seaborn |
-| Version Control | Git + GitHub |
+| Category        | Tools                                   |
+| --------------- | --------------------------------------- |
+| Language        | Python                                  |
+| Notebook        | Jupyter / Kaggle                        |
+| ML              | scikit-learn, imbalanced-learn, PyTorch |
+| Visualization   | matplotlib, seaborn                     |
+| Version Control | Git + GitHub                            |
 
 ---
 
 ## 📜 License
 This repository is licensed under the **MIT License**.  
-See [LICENSE](./LICENSE) for more details.
+See [LICENSE](LICENSE) for more details.
 
 ---
 
@@ -75,11 +75,11 @@ If you find this useful, consider ⭐ starring the repo — it helps visibility 
 
 ## 🚧 Upcoming Additions
 
-| Planned Project | Domain |
-|----------------|---------|
-| Titanic Survival | Classification |
-| House Price Prediction | Regression |
-| Customer Churn | Imbalanced Classification |
-| Loan Default Risk | Tabular ML |
+| Planned Project        | Domain                    |
+| ---------------------- | ------------------------- |
+| Titanic Survival       | Classification            |
+| House Price Prediction | Regression                |
+| Customer Churn         | Imbalanced Classification |
+| Loan Default Risk      | Tabular ML                |
 
 Stay tuned 🚀
