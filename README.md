@@ -2,7 +2,7 @@
 
 [![Made with Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)]()
 [![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
+![License](https://img.shields.io/badge/license-Apache%202.0-green.svg?style=flat)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Projects-20beff?logo=kaggle)]()
 
 This repository is a curated collection of my Kaggle machine learning projects — covering real-world challenges, model experimentation, and best practices for reproducible ML workflows.
